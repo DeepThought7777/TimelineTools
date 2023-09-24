@@ -16,7 +16,7 @@ var errInvalidArguments = errors.New("not enough arguments specified")
 
 func main() {
 	inputFolderFile := "inputFolders.csv"
-	outputFolder := "R:\\TIMELINE"
+	outputFolder := "\\TIMELINE"
 	extensionsFile := "extensions.csv"
 
 	extensions, err := readExtensions(extensionsFile)
