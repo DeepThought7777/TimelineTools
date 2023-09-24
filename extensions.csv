@@ -1,0 +1,42 @@
+.7z;7-Zip compressed file
+.avi;AVI file
+.bat;Batch file
+.bmp;Bitmap image
+.c;C and C++ source code file
+.cpp;C++ source code file
+.cs;Visual C# source code file
+.css;Cascading Style Sheet file
+.csv;Comma separated value file
+.eml;E-mail message file from multiple e-mail clients, including Gmail.
+.gif;GIF image
+.h;C, C++, and Objective-C header file
+.h264;H.264 video file
+.htm;d .html - HTML file
+.jpeg;JPEG image
+.jpg;JPEG image
+.mkv;Matroska Multimedia Container
+.mp3;MP3 audio file
+.mp4;MPEG4 video file
+.mpg;MPEG video file
+.odp;OpenOffice Impress presentation file
+.ods;OpenOffice Calc spreadsheet file
+.odt;OpenOffice Write spreadsheet file
+.oft;Microsoft Outlook e-mail template file.
+.ost;Microsoft Outlook offline e-mail storage file.
+.otf;Open type font file
+.php;PHP file
+.png;PNG image
+.ppt;PowerPoint presentation
+.pptx;PowerPoint Open XML presentation
+.py;Python file
+.sql;SQL database file
+.sh;script file
+.tif;TIFF image
+.tiff;TIFF image
+.ttf;TrueType font file
+.vcf;E-mail contact file.
+.wav;WAV file
+.xls;Microsoft Excel file
+.xlsm;Microsoft Excel file with macros
+.xlsx;Microsoft Excel Open XML spreadsheet file
+.zip;Zip compressed file
