@@ -41,8 +41,8 @@ var errInvalidArguments = errors.New("not enough arguments specified")
 
 func processArguments() (string, error) {
 	if len(os.Args) != 2 {
-		fmt.Println("Taking default R:\\TIMELINE")
-		return "R:\\TIMELINE", nil
+		fmt.Println("Taking default \\TIMELINE")
+		return "\\TIMELINE", nil
 	}
 
 	return os.Args[1], nil
